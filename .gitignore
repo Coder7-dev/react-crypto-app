@@ -1,5 +1,5 @@
 # Скрываем папку с зависимостями (если есть)
-node_modules/
+node_modules
 
 # Скрываем кэш компилятора Sass/SCSS
 .sass-cache/
